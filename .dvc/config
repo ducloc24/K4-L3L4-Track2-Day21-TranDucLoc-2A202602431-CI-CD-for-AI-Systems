@@ -1,0 +1,4 @@
+[core]
+    remote = labstore
+['remote "labstore"']
+    url = s3://amzn-s3-ai20k-day21-875476618008-us-east-1-an/dvc
